@@ -1,0 +1,117 @@
+body {
+    background-color: dimgray;
+}
+
+header {
+    border-bottom: 0.7rem solid black;
+}
+
+.nav-bar {
+    background-color: rgb(243, 241, 236);
+}
+
+.logo {
+    font-size: 3rem;
+}
+
+.hero-main {
+    background-image: url(https://images.unsplash.com/photo-1585773818428-b50bebdc2344?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=3305&q=80);
+    border-bottom: 0.7rem solid black;
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+    padding-left: 3rem;
+}
+
+#hero-maple {
+    font-size: 3.3em;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#maple-text-main {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.14em;
+}
+
+.circles {
+    padding: 0rem;
+}
+
+.hero-bellow {
+    background-color: rgb(44, 43, 42);
+}
+
+.hero-text {
+    display: flex;
+    padding: 4rem;
+    font-size: 1.75em;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.learn {
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 2rem;
+}
+
+.learn-2 {
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: -1rem;
+    margin-bottom: 2rem;
+}
+
+.hero-bottom {
+    background-color: white;
+}
+
+.blog-img {
+    background-image: url(https://images.unsplash.com/photo-1590903561490-25434f842d33?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fHBpbmUlMjBuZWVkbGVzfGVufDB8fDB8fHww&auto=format&fit=crop&w=900&q=60);
+    height: 30vh;
+    color: white;
+    font-size: 2.1em;
+    margin-top: 2.5rem;
+    margin-bottom: .3rem;
+    border-radius: 5%;
+    -webkit-text-stroke-color: black;
+    -webkit-text-stroke-width: .125rem;
+}
+
+#blog-text {
+    text-align: left;
+}
+
+.office-img {
+    background-image: url(https://images.unsplash.com/photo-1508020963102-c6c723be5764?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8c2t5fGVufDB8fDB8fHww&auto=format&fit=crop&w=900&q=60);
+    height: 30vh;
+    width: 100%;
+    color: white;
+    font-size: 2.1em;
+    margin-top: 2.5rem;
+    margin-bottom: .3rem;
+    border-radius: 5%;
+    -webkit-text-stroke-color: black;
+    -webkit-text-stroke-width: .125rem;
+}
+
+#office-text {
+    text-align: left;
+}
+
+.exper-img {
+    background-image: url(https://images.unsplash.com/photo-1464030871258-a01dfd38220a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fHdhdmVzfGVufDB8fDB8fHww&auto=format&fit=crop&w=900&q=60);
+    height: 30vh;
+    color: white;
+    font-size: 2.1em;
+    margin-top: 2.5rem;
+    margin-bottom: .3rem;
+    border-radius: 5%;
+    -webkit-text-stroke-color: black;
+    -webkit-text-stroke-width: .125rem;
+}
+
+#exper-text {
+    text-align: left;
+}
+
+.foot {
+    background-color: rgb(44, 43, 42);
+}
